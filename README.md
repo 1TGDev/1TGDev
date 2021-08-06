@@ -7,7 +7,7 @@
 
 <br>
 <span>
-	<img src="https://img.shields.io/badge/-Nodejs-43853?logo=Node&logoColor=white">
+	<img src="https://img.shields.io/badge/-Node.js-43853?logo=node.js&logoColor=white">
 	<img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white">
 	<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white">
 	<img src="https://img.shields.io/badge/-CSS-1370b5?logo=css3&logoColor=white">
