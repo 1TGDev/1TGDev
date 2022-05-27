@@ -1,4 +1,4 @@
-[![Dev List Widget](https://devlist.dev/api/profile/300530315351425024/widget.png)](https://devlist.dev/p/300530315351425024)
+[![Dev List Widget](https://dlist.dev/api/profile/300530315351425024/widget.png)](https://devlist.dev/p/300530315351425024)
 ![TARIQ GitHub Statistics](https://github-readme-stats.vercel.app/api?username=1TGDev&count_private=true&show_icons=true&theme=react)
 ![TARIQ Top Languages Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=1TGDev&theme=react)
 
